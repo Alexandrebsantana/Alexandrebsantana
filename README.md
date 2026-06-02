@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Alexandre Barros de Santana 👋
 
-<!--
-**Alexandrebsantana/Alexandrebsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudo Dados e Inteligência Artificial, desenvolvendo projetos para aprimorar minhas habilidades em programação e análise de dados.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📍 São Paulo, Brasil
+* 📊 Interessado em Dados e Inteligência Artificial
+* 🐍 Estudando Python e ferramentas para análise de dados
+* 📚 Compartilhando projetos e aprendizados
+
+## Tecnologias e Ferramentas
+
+* Python
+* Pandas
+* SQL
+* Git
+* GitHub
+
+## Objetivos
+
+* Construir um portfólio sólido de projetos
+* Aprofundar conhecimentos em análise de dados
+* Desenvolver habilidades em Machine Learning e Inteligência Artificial
+* Contribuir para projetos open source futuramente
+
+## Projetos
+
+Os projetos serão adicionados e atualizados conforme minha evolução nos estudos.
+
+## Contato
+
+* LinkedIn: linkedin.com/in/alexandre-barros-santana
+
