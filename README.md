@@ -30,5 +30,5 @@ Os projetos serão adicionados e atualizados conforme minha evolução nos estud
 
 ## Contato
 
-* LinkedIn: linkedin.com/in/alexandre-barros-santana
+* LinkedIn: [(https://www.linkedin.com/in/alexandre-barros-santana/)](https://www.linkedin.com/in/alexandre-barros-santana/)
 
