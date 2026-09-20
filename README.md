@@ -16,6 +16,7 @@ Atualmente estudo Dados e Inteligência Artificial, desenvolvendo projetos para 
 * SQL
 * Git
 * GitHub
+* Java
 
 ## Objetivos
 
