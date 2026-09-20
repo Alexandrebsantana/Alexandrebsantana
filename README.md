@@ -1,6 +1,6 @@
 # Olá, eu sou Alexandre Barros de Santana 👋
 
-Atualmente estudo Dados e Inteligência Artificial, desenvolvendo projetos para aprimorar minhas habilidades em programação e análise de dados.
+Atualmente estudo Dados, Inteligência Artificial e Desenvolvimento de Software, desenvolvendo projetos para aprimorar minhas habilidades em programação e análise de dados.
 
 ## Sobre mim
 
