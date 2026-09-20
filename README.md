@@ -21,7 +21,7 @@ Atualmente estudo Dados e Inteligência Artificial, desenvolvendo projetos para 
 ## Objetivos
 
 * Construir um portfólio sólido de projetos
-* Aprofundar conhecimentos em análise de dados
+* Aprofundar conhecimentos em análise de dados e desenvolvimento.
 * Desenvolver habilidades em Machine Learning e Inteligência Artificial
 * Contribuir para projetos open source futuramente
 
